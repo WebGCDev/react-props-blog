@@ -1,0 +1,26 @@
+.post {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.image {
+  display: block;
+  max-width: 100%;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.tags {
+  margin-top: 8px;
+}
+
+.tag {
+  display: inline-block;
+  padding: 4px 8px;
+  margin-right: 8px;
+  border-radius: 4px;
+  color: #fff;
+}

@@ -1,0 +1,33 @@
+.tagList {
+  margin-top: 32px;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f1f1f1;
+}
+
+.tag {
+  display: inline-block;
+  padding: 4px 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  background-color: #333;
+  color: #fff;
+}
+
+.tag-html {
+  background-color: orange;
+}
+
+.tag-css {
+  background-color: blue;
+}
+
+.tag-js {
+  background-color: #efdb4f;
+}
+
+.tag-php {
+  background-color: #787cb4;
+}
